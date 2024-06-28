@@ -1,20 +1,3 @@
 baseURL = 'https://uselinux.fyi/'
 languageCode = 'en-us'
 title = 'Use Linux'
-
-# For https://github.com/canstand/compost
-[build]
-  _merge = 'deep'
-[markup]
-  _merge = 'deep'
-[minify]
-  _merge = 'deep'
-[module]
-[[module.mounts]]
-  source = 'assets'
-  target = 'assets'
-[[module.mounts]]
-  source = "hugo_stats.json"
-  target = "assets/watching/hugo_stats.json"
-[[module.imports]]
-  path="github.com/canstand/compost"
