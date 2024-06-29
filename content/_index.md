@@ -16,6 +16,10 @@ Linux, like Windows, macOS, and ChromeOS, is an operating system (or OS), the so
 
 Good question! It depends on what you use your computer for; not every app has a Linux version, so you might need to keep using your current operating system. However, Linux is perfectly capable of most tasks; whether you're an artist, a gamer, a CEO, or just somebody who wants to read email and surf the web, Linux has you covered.
 
+{{< button href="/software-finder" target="_self" >}}
+{{< icon "arrow-circle-right" >}} See compatible software
+{{< /button >}}
+
 ## How do I get Linux?
 
 We've compiled a guide to help you pick the version of Linux that will be perfect for you and then try it out on your computer! While trying Linux can look intimidating, this website's goal is to eliminate the intimidation and make Linux the best experience it can be.
