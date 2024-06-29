@@ -1,6 +1,10 @@
 +++
-title = 'Use Linux'
+title = 'You should use Linux!'
 +++
+
+{{< alert >}}
+This site is under construction. Some content may be partially or wholly missing.
+{{< /alert >}}
 
 Do you value your digital privacy? Do you want your computer to remain truly yours? Are you tired of being told that you need to buy a new computer to use the latest version of Windows? Then you need to start using Linux.
 
@@ -14,4 +18,8 @@ Good question! It depends on what you use your computer for; not every app has a
 
 ## How do I get Linux?
 
-We've compiled a [guide](/which-distro) to help you pick the version of Linux that will be perfect for you and then try it out on your computer! While trying Linux can look intimidating, this website's goal is to eliminate the intimidation and make Linux the best experience it can be.
+We've compiled a guide to help you pick the version of Linux that will be perfect for you and then try it out on your computer! While trying Linux can look intimidating, this website's goal is to eliminate the intimidation and make Linux the best experience it can be.
+
+{{< button href="/which-distro" target="_self" >}}
+{{< icon "arrow-circle-right" >}} Get Linux
+{{< /button >}}
